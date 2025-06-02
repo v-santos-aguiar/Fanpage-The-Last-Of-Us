@@ -371,8 +371,4 @@ footer hr {
     flex: 1 1 100%;
     max-width: 100%;
   }
-
-  .cards article {
-    height: 300px;
-  }
 }
