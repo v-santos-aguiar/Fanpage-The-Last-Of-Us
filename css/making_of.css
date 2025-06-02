@@ -207,7 +207,6 @@ a {
   border-radius: 10px;
   flex: 1 1 calc(33.33% - 20px); /* 4 por linha considerando gap */
   max-width: calc(33.33% - 20px); /* Limita tamanho máximo */
-  height: 250px; /* Altura fixa para os cards */
   display: flex;
   flex-direction: column;
   gap: 0.75rem; /* Espaço entre elementos internos */
