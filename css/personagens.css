@@ -297,12 +297,6 @@ footer hr {
     align-items: center;
   }
 
-  body {
-    max-width: 100%;
-    height: auto;
-    overflow-x: hidden; /* Impede rolagem horizontal */
-  }
-
   /* Cards em 2 colunas */
   .container article {
     flex: 1 1 calc(50% - 20px);
